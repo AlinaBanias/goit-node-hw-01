@@ -47,5 +47,4 @@ const {
     }
   }
   
-//   invokeAction(argv);
-invokeAction({action: "list"});
+  invokeAction(argv);
